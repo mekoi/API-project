@@ -1,0 +1,10 @@
+D:\Iris_college\Courses\Semester3\COMP306_Cloud\Labs\Project\ToSubmit\Project_Iris_Bruno\MarketPriceLibrary\bin\Debug\netcoreapp3.1\MarketPriceLibrary.deps.json
+D:\Iris_college\Courses\Semester3\COMP306_Cloud\Labs\Project\ToSubmit\Project_Iris_Bruno\MarketPriceLibrary\bin\Debug\netcoreapp3.1\MarketPriceLibrary.dll
+D:\Iris_college\Courses\Semester3\COMP306_Cloud\Labs\Project\ToSubmit\Project_Iris_Bruno\MarketPriceLibrary\obj\Debug\netcoreapp3.1\MarketPriceLibrary.csprojAssemblyReference.cache
+D:\Iris_college\Courses\Semester3\COMP306_Cloud\Labs\Project\ToSubmit\Project_Iris_Bruno\MarketPriceLibrary\obj\Debug\netcoreapp3.1\MarketPriceLibrary.AssemblyInfoInputs.cache
+D:\Iris_college\Courses\Semester3\COMP306_Cloud\Labs\Project\ToSubmit\Project_Iris_Bruno\MarketPriceLibrary\obj\Debug\netcoreapp3.1\MarketPriceLibrary.AssemblyInfo.cs
+D:\Iris_college\Courses\Semester3\COMP306_Cloud\Labs\Project\ToSubmit\Project_Iris_Bruno\MarketPriceLibrary\bin\Debug\netcoreapp3.1\MarketPriceLibrary.runtimeconfig.json
+D:\Iris_college\Courses\Semester3\COMP306_Cloud\Labs\Project\ToSubmit\Project_Iris_Bruno\MarketPriceLibrary\bin\Debug\netcoreapp3.1\MarketPriceLibrary.runtimeconfig.dev.json
+D:\Iris_college\Courses\Semester3\COMP306_Cloud\Labs\Project\ToSubmit\Project_Iris_Bruno\MarketPriceLibrary\bin\Debug\netcoreapp3.1\MarketPriceLibrary.pdb
+D:\Iris_college\Courses\Semester3\COMP306_Cloud\Labs\Project\ToSubmit\Project_Iris_Bruno\MarketPriceLibrary\obj\Debug\netcoreapp3.1\MarketPriceLibrary.dll
+D:\Iris_college\Courses\Semester3\COMP306_Cloud\Labs\Project\ToSubmit\Project_Iris_Bruno\MarketPriceLibrary\obj\Debug\netcoreapp3.1\MarketPriceLibrary.pdb

@@ -1,1 +1,1 @@
-This project simulates a Market Data Provider API that provides real-time market data to the registered financial institutions. It includes all components of the API project (model, server API, and client that consumes it) 
+This project simulates a Market Data Provider API that provides real-time market data to the registered financial institutions. It includes all components of the API project (model, server API, and client that consumes API) 
